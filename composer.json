@@ -1,5 +1,5 @@
 {
-    "name": "aad/fatura",
+    "name": "deniz/fatura",
     "description": "GİB eFatura.gov.tr Fatura Oluşturucu",
     "type": "library",
     "keywords": [
@@ -26,7 +26,7 @@
     },
     "require": {
         "php": "^7.3|^8",
-        "ramsey/uuid": "^2.8",
+        "ramsey/uuid": "~3.8.0",
         "kwn/number-to-words": "^1.9"
     },
     "require-dev": {
